@@ -1,4 +1,4 @@
-### **<h1 align='center'>Kymograph_generation_for_3D_image</h1>**
+### **<h1 align='center'>Kymograph generation for 3D image</h1>**
 This is a repo that demonstrates the generation of 2D kymograph from a 3D image (x, y and time). 
 
 The embedded notebook is used to compute for the generation of a kymograph from a three-dimensional image (i.e.: x, y and time). The line profile intensity of each image frame is read out using the x- and y -y-coordinate positions of the two ends of the line. The readout intensities over the profile line are stacked along the y-axis to display a 2D kymograph as a simplified representation of the dynamics process from the input 3D image dataset.
