@@ -10,7 +10,8 @@ Also, it is possible to extend the profile line beyond the initial two ends of t
 Two input files are required to run this notebook.
 * 1.) 3D image (x, y and time)
 * 2.) a CSV file containing 4 columns with the x- and y-coordinates values of the two ends. The columns should have the following headers:
- | X1 | Y1 | X2 | Y2 |
+
+| X1 | Y1 | X2 | Y2 |
 | :-----: | :-----: | :-----: | :-----: |
 | `number` | `number` | `number` | `number` |
 | `...` | `...` | `...` | `...` |
