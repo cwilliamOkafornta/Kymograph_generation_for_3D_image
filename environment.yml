@@ -1,4 +1,4 @@
-name: kymoGen
+name: KymoGen
 channels:
   - anaconda
   - conda-forge
@@ -243,4 +243,4 @@ dependencies:
   - zstd=1.5.7=hbeecb71_1
   - pip:
       - tqdm==4.67.1
-prefix: C:\Users\cWilliamO\miniforge3\envs\kymoGen
+prefix: C:\Users\cWilliamO\miniforge3\envs\KymoGen
