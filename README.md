@@ -1,4 +1,4 @@
-DOI: "https://doi.org/10.5281/zenodo.15010690"
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15010690.svg)](https://doi.org/10.5281/zenodo.15010690)
 
 ### **<h1 align='center'>Kymograph generation for 3D image</h1>**
 This is a repo that demonstrates the generation of 2D kymograph from a 3D image (x, y and time). 
